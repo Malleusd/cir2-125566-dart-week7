@@ -1,0 +1,16 @@
+1. 80>= and <=100,Grade A
+2. 70>=79,Grade  B
+3. 60>=69,Grade  C
+4. 50>=59,Grade  D
+5. <50,Grade     F
+6. ERROR
+=====================
+1. 80>= and <=100,Grade A
+2. 75>=79,Grade         B+
+3. 70>=74,Grade         B
+4. 65>=69,Grade         C+
+5. 60>=64,Grade         C
+6. 55>=59,Grade         D+
+7. 50>=54,Grade         D
+8. <50,Grade            F
+9. ERROR
